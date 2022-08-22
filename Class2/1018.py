@@ -13,7 +13,6 @@ for i in range(m):
 
 for i in range(m):
     for j in range(n):
-        
 
 for i in range(m):
     if(myls[i].count("W") == myls[i].count("B")):
